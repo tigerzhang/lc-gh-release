@@ -1,0 +1,17 @@
+## sha256sum
+
+daf72e50cccc8cfdae7126c2694ebb6f1a6bbee3060c600c369db1d21241085c  LC5
+d50345428737fdd263a45aae51671e50b905c01da283d8ec4d784274fd4a668e  lib/libLC5.so
+97a6d2c8fcee58f9253addc087904b2e276da3acef78f996bf98311be25dcf51  lib/libQt5Qmqtt.so
+97a6d2c8fcee58f9253addc087904b2e276da3acef78f996bf98311be25dcf51  lib/libQt5Qmqtt.so.1
+97a6d2c8fcee58f9253addc087904b2e276da3acef78f996bf98311be25dcf51  lib/libQt5Qmqtt.so.1.0
+97a6d2c8fcee58f9253addc087904b2e276da3acef78f996bf98311be25dcf51  lib/libQt5Qmqtt.so.1.0.0
+
+## md5sum
+
+b13e28059bb63029de1d9f7e86d0bfdd  LC5
+e92774fbf28e9a44899e83c21b958cb0  lib/libLC5.so
+f5c3b3bf8e1e60403dc430f75a6c43d0  lib/libQt5Qmqtt.so
+f5c3b3bf8e1e60403dc430f75a6c43d0  lib/libQt5Qmqtt.so.1
+f5c3b3bf8e1e60403dc430f75a6c43d0  lib/libQt5Qmqtt.so.1.0
+f5c3b3bf8e1e60403dc430f75a6c43d0  lib/libQt5Qmqtt.so.1.0.0
